@@ -4,34 +4,34 @@ I am studying Computer Science online at WGU. It has been a great resource, howe
 
 ## To Learn
 
-- [] Learn Git
-- [] Learn GitHub
-- [] How to write clean code
-- [] How to write tests for code
-- [] How to work in a team
-- [] Architecture
-- [] In depth algorithms & data structures
-- [] Shell
-- [] VSCode's capabilites
-- [] Dependency Injection
-- [] SOLID, DRY, Agile software development practices
-- [] A Cloud platform
-- [] A Datastore
-- [] A Framework
-- [] How to code defensively for security
-- [] REST Representational State Transfer
-- [] What is an API?
+- [ ] Learn Git
+- [ ] Learn GitHub
+- [ ] How to write clean code
+- [ ] How to write tests for code
+- [ ] How to work in a team
+- [ ] Architecture
+- [ ] In depth algorithms & data structures
+- [ ] Shell
+- [ ] VSCode's capabilites
+- [ ] Dependency Injection
+- [ ] SOLID, DRY, Agile software development practices
+- [ ] A Cloud platform
+- [ ] A Datastore
+- [ ] A Framework
+- [ ] How to code defensively for security
+- [ ] REST Representational State Transfer
+- [ ] What is an API?
 
 ## To Read
-- [] Clean Code and The Clean Coder both by Robert C. Martin (Uncle Bob),
-- [] Design Patterns: Elements of Reusable Object-Oriented Software
-- [] Head First Design Patterns: A Brain-Friendly Guide
-- [] Refactoring: Improving the Design of Existing Code
-- [] Scrum: The Art of Doing Twice the Work in Half the Time
-- [] Cracking the Coding Interview
+- [ ] Clean Code and The Clean Coder both by Robert C. Martin (Uncle Bob),
+- [ ] Design Patterns: Elements of Reusable Object-Oriented Software
+- [ ] Head First Design Patterns: A Brain-Friendly Guide
+- [ ] Refactoring: Improving the Design of Existing Code
+- [ ] Scrum: The Art of Doing Twice the Work in Half the Time
+- [ ] Cracking the Coding Interview
 
 ## To Do
-- [] Clean up my GitHub 
-- [] Contribute to open source
-- [] Group project
-- [] Hackathon
+- [ ] Clean up my GitHub 
+- [ ] Contribute to open source
+- [ ] Group project
+- [ ] Hackathon

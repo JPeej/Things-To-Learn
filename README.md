@@ -21,6 +21,7 @@ I am studying Computer Science online at WGU. It has been a great resource, howe
 - [ ] How to code defensively for security
 - [ ] REST Representational State Transfer
 - [ ] What is an API?
+- [ ] Determining a good hash function for has table ADT.
 
 ## To Read
 - [ ] Clean Code and The Clean Coder both by Robert C. Martin (Uncle Bob),
